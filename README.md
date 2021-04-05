@@ -38,11 +38,14 @@
 - create our model
 - Please type this out to get reps in!!
   - `sequelize model:generate --name=tableName --attributes tableColumn:dataType,tableColumn:dataType`
-- check your database that everything you have your tables!
+- check your database!
 - `sequelize db:migrate`
 
 </p>
 </details>
-1. Similarily to the homework make sure to organize your server in a routes and controllers folder
-1. Given enough time create the frontend for your public blog! 
-    - (think back to group projects but instead of using an api your using your server!!)
+
+1. Also make sure to organize your server in a routes and controllers folder as you did in your homework!
+
+## Feeling ambitious?
+
+If you have enough time create the frontend for your public blog! - (think back to group projects but instead of using an api your using your server!!)
