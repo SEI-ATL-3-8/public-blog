@@ -2,6 +2,6 @@
   "development": {
     "database": "public_blog",
     "host": "127.0.0.1",
-    "dialect": "postgresql"
+    "dialect": "postgres"
   }
 }
