@@ -7,6 +7,13 @@
   - hmmm I wonder how we can set it up in a way that when you see a single post, you can see all the comments associated with that post?
   - this probably means a comment cannot exist without a post
 
+## User Story
+
+-User stories: see a list of all posts, create a new post, (optionally edit and delete posts), see all comments on a single post, create a comment on a single post
+
+- The post will have two columns, a title and a description (both strings)
+- The comment will have a description column (string) BUT also remember the association!! what other column will it need?
+
 1. start by creating your ERD
 1. Once you're sure of your ERD go through the usual setup of your server and database. Try to setup as much as you can on your own.
 <details><summary>Cheat sheet here</summary>
