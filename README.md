@@ -45,6 +45,7 @@
 </details>
 
 1. Also make sure to organize your server in a routes and controllers folder as you did in your homework!
+2. Remember to add associations for this one!
 
 ## Feeling ambitious?
 
