@@ -1,0 +1,4 @@
+GOALS:
+  - user can see list of existing topics
+  - user can create a new topic
+  - user can associate an existing tag w/ an existing topic

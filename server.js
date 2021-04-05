@@ -17,3 +17,6 @@ app.get('/', (req,res) => {
 })
 
 app.use('/posts', postRoutes)
+
+const topicsRoutes = require('./routes/topicsRoutes')
+app.use('/topics', topicsRoutes)
